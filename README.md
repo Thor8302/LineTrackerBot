@@ -8,6 +8,16 @@ This project demonstrates an Arduino-based line follower robot using L293D motor
 
 Watch the robot in action! Below is a video demonstrating the line follower robot navigating a path.
 
+
+https://github.com/user-attachments/assets/61333c09-bba6-4c9d-8755-7bd9d4aafc89
+
+
+
+
+https://github.com/user-attachments/assets/2db7058c-6908-4938-8bfa-038cb4624b2f
+
+
+
 ## Project Details
 
 - **Motor Driver:** L293D
